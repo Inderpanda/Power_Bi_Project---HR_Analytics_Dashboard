@@ -19,7 +19,9 @@ Extracted additional insights by creating new DAX measures and columns like Pres
 3️⃣ 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
 Crafted a sleek dashboard integrating Cards, Area charts, treemap, Column and Bar charts, clever conditional formatting, slicers, and matrices per project specifications.
 
-4️⃣ 𝐅𝐢𝐧𝐝 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+4️⃣ 𝐅𝐢𝐧𝐝 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: After anlysing the data found some key insights as it will help HR to take decision accordingly.
+
+# Key Insights
 
 ➡️ Presence % is highest in the month of April at 94%.
 
