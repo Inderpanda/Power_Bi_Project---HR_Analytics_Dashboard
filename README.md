@@ -2,6 +2,9 @@
 
 ![HR Dashboard](https://github.com/Inderpanda/HR_Analytics_Dashboard/assets/138003751/677134a7-5760-4ba8-9fcf-dd382f19532f)
 
+
+📊 𝐋𝐢𝐯𝐞 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 : [https://shorturl.at/chjH1](https://shorturl.at/uyNU9)
+
 # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
 Unlocking insights from an HR dataset to understand employee preferences for Work from Home (WFH) versus Work from Office (WFO) and delving into Sick Leave Percentage.
 
