@@ -22,9 +22,21 @@ Crafted a sleek dashboard integrating Cards, Area charts, treemap, Column and Ba
 4️⃣ 𝐅𝐢𝐧𝐝 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
 
 ➡️ Presence % is highest in the month of April at 94%.
+
+
 ➡️ Sick leave is lowest in the month of May, standing at 0.43%.
+
+
 ➡️ Ayana Atkins had the overall maximum sick leave, which was 10%.
+
+
 ➡️ Most sick leaves are taken on Mondays.
+
+
 ➡️ WFH percentage holds steady at a 10% across all three months.
+
+
 ➡️ The month of May has highest WFH percentage at 11.23%.
+
+
 ➡️ Mondays boast the highest in-office attendance, while Fridays see the most WFH choices.
